@@ -1,0 +1,482 @@
+{
+    "日": {
+      "meaning": "day, sun, Japan, counter for days",
+      "onyomi": "ニチ (nichi), ジツ (jitsu)",
+      "kunyomi": "ひ (hi), -び (-bi), -か (-ka)",
+      "usage": "今日はいい天気です。(Kyō wa ii tenki desu. - Today's weather is good.)"
+    },
+    "一": {
+      "meaning": "one",
+      "onyomi": "イチ (ichi)",
+      "kunyomi": "ひと(つ) (hito[tsu])",
+      "usage": "一つください。(Hitotsu kudasai. - Please give me one.)"
+    },
+    "国": {
+      "meaning": "country",
+      "onyomi": "コク (koku)",
+      "kunyomi": "くに (kuni)",
+      "usage": "私の国は日本です。(Watashi no kuni wa Nihon desu. - My country is Japan.)"
+    },
+    "人": {
+      "meaning": "person",
+      "onyomi": "ジン (jin), ニン (nin)",
+      "kunyomi": "ひと (hito)",
+      "usage": "あの人は誰ですか。(Ano hito wa dare desu ka. - Who is that person?)"
+    },
+    "年": {
+      "meaning": "year, counter for years",
+      "onyomi": "ネン (nen)",
+      "kunyomi": "とし (toshi)",
+      "usage": "来年、日本へ行きます。(Rainen, Nihon e ikimasu. - I will go to Japan next year.)"
+    },
+    "大": {
+      "meaning": "large, big",
+      "onyomi": "ダイ (dai), タイ (tai)",
+      "kunyomi": "おお(きい) (oo[kii])",
+      "usage": "これは大きい犬です。(Kore wa ookii inu desu. - This is a big dog.)"
+    },
+    "十": {
+      "meaning": "ten, 10",
+      "onyomi": "ジュウ (juu)",
+      "kunyomi": "とお (too), と (to)",
+      "usage": "十時です。(Jūji desu. - It's ten o'clock.)"
+    },
+    "二": {
+      "meaning": "two, 2",
+      "onyomi": "ニ (ni), ジ (ji)",
+      "kunyomi": "ふた(つ) (futa[tsu])",
+      "usage": "二つあります。(Futatsu arimasu. - There are two.)"
+    },
+    "本": {
+      "meaning": "book, present, true, counter for long cylindrical things",
+      "onyomi": "ホン (hon)",
+      "kunyomi": "もと (moto)",
+      "usage": "この本は面白いです。(Kono hon wa omoshiroi desu. - This book is interesting.)"
+    },
+    "中": {
+      "meaning": "in, inside, middle, mean, center",
+      "onyomi": "チュウ (chuu)",
+      "kunyomi": "なか (naka), うち (uchi), あた(る) (ata[ru])",
+      "usage": "箱の中にあります。(Hako no naka ni arimasu. - It's inside the box.)"
+    },
+    "長": {
+      "meaning": "long, leader, superior, senior",
+      "onyomi": "チョウ (chou)",
+      "kunyomi": "なが(い) (naga[i]), おさ (osa)",
+      "usage": "髪が長いです。(Kami ga nagai desu. - My hair is long.)"
+    },
+    "出": {
+      "meaning": "exit, leave, go out",
+      "onyomi": "シュツ (shutsu), スイ (sui)",
+      "kunyomi": "で(る) (de[ru]), だ(す) (da[su]), い(でる) (i[deru])",
+      "usage": "部屋を出ます。(Heya o demasu. - I leave the room.)"
+    },
+    "三": {
+      "meaning": "three, 3",
+      "onyomi": "サン (san)",
+      "kunyomi": "み(つ) (mi[tsu])",
+      "usage": "三つください。(Mittsu kudasai. - Please give me three.)"
+    },
+    "時": {
+      "meaning": "time, hour",
+      "onyomi": "ジ (ji)",
+      "kunyomi": "とき (toki), -どき (-doki)",
+      "usage": "何時ですか。(Nanji desu ka. - What time is it?)"
+    },
+    "行": {
+      "meaning": "going, journey, carry out, line, row",
+      "onyomi": "コウ (kou), ギョウ (gyou), アン (an)",
+      "kunyomi": "い(く) (i[ku]), ゆ(く) (yu[ku]), おこな(う) (okona[u])",
+      "usage": "学校へ行きます。(Gakkō e ikimasu. - I go to school.)"
+    },
+    "見": {
+      "meaning": "see, hopes, chances, idea, opinion, look at, visible",
+      "onyomi": "ケン (ken)",
+      "kunyomi": "み(る) (mi[ru]), み(せる) (mi[seru])",
+      "usage": "映画を見ます。(Eiga o mimasu. - I watch a movie.)"
+    },
+    "月": {
+      "meaning": "month, moon",
+      "onyomi": "ゲツ (getsu), ガツ (gatsu)",
+      "kunyomi": "つき (tsuki)",
+      "usage": "来月、旅行します。(Raigetsu, ryokō shimasu. - I will travel next month.)"
+    },
+    "分": {
+      "meaning": "part, minute of time, understand",
+      "onyomi": "ブン (bun), フン (fun), ブ (bu)",
+      "kunyomi": "わ(ける) (wa[keru])",
+      "usage": "五分待ちます。(Gofun machimasu. - I will wait for five minutes.)"
+    },
+    "後": {
+      "meaning": "behind, back, later",
+      "onyomi": "ゴ (go), コウ (kou)",
+      "kunyomi": "のち (nochi), うし(ろ) (ushi[ro]), あと (ato)",
+      "usage": "後で会いましょう。(Ato de aimashō. - Let's meet later.)"
+    },
+    "前": {
+      "meaning": "in front, before",
+      "onyomi": "ゼン (zen)",
+      "kunyomi": "まえ (mae)",
+      "usage": "駅の前にあります。(Eki no mae ni arimasu. - It's in front of the station.)"
+    },
+    "生": {
+      "meaning": "life, genuine, birth",
+      "onyomi": "セイ (sei), ショウ (shou)",
+      "kunyomi": "い(きる) (i[kiru]), う(む) (u[mu]), お(u) (o[u]), は(える) (ha[eru]), なま (nama)",
+      "usage": "田中さんは学生です。(Tanaka-san wa gakusei desu. - Mr./Ms. Tanaka is a student.)"
+    },
+    "五": {
+      "meaning": "five, 5",
+      "onyomi": "ゴ (go)",
+      "kunyomi": "いつ(つ) (itsu[tsu])",
+      "usage": "五時です。(Goji desu. - It's five o'clock.)"
+    },
+    "間": {
+      "meaning": "interval, space",
+      "onyomi": "カン (kan), ケン (ken)",
+      "kunyomi": "あいだ (aida), ま (ma), あい (ai)",
+      "usage": "一時間かかります。(Ichijikan kakarimasu. - It takes one hour.)"
+    },
+    "上": {
+      "meaning": "above, up",
+      "onyomi": "ジョウ (jou), ショウ (shou), シャン (shan)",
+      "kunyomi": "うえ (ue), うわ- (uwa-), かみ (kami), あ(げる) (a[geru]), のぼ(る) (nobo[ru]), たてまつ(る) (tatematsu[ru])",
+      "usage": "机の上にあります。(Tsukue no ue ni arimasu. - It's on the desk.)"
+    },
+    "東": {
+      "meaning": "east",
+      "onyomi": "トウ (tou)",
+      "kunyomi": "ひがし (higashi)",
+      "usage": "東の空を見ます。(Higashi no sora o mimasu. - I look at the eastern sky.)"
+    },
+    "四": {
+      "meaning": "four, 4",
+      "onyomi": "シ (shi)",
+      "kunyomi": "よ(つ) (yo[tsu]), よん (yon)",
+      "usage": "四つください。(Yottsu kudasai. - Please give me four.)"
+    },
+    "今": {
+      "meaning": "now; the present",
+      "onyomi": "コン (kon), キン (kin)",
+      "kunyomi": "いま (ima)",
+      "usage": "今、行きます。(Ima, ikimasu. - I'm going now.)"
+    },
+    "金": {
+      "meaning": "gold",
+      "onyomi": "キン (kin), コン (kon), ゴン (gon)",
+      "kunyomi": "かね (kane), かな- (kana-), -がね (-gane)",
+      "usage": "お金があります。(Okane ga arimasu. - I have money.)"
+    },
+    "九": {
+      "meaning": "nine, 9",
+      "onyomi": "キュウ (kyuu), ク (ku)",
+      "kunyomi": "ここの(つ) (kokono[tsu])",
+      "usage": "九時です。(Kuji desu. - It's nine o'clock.)"
+    },
+    "入": {
+      "meaning": "enter, insert",
+      "onyomi": "ニュウ (nyuu)",
+      "kunyomi": "い(る) (i[ru]), はい(ru) (hai[ru])",
+      "usage": "部屋に入ります。(Heya ni hairimasu. - I enter the room.)"
+    },
+    "学": {
+      "meaning": "study, learning, science",
+      "onyomi": "ガク (gaku)",
+      "kunyomi": "まな(ぶ) (mana[bu])",
+      "usage": "毎日日本語を学びます。(Mainichi Nihongo o manabimasu. - I study Japanese every day.)"
+    },
+    "高": {
+      "meaning": "tall, high, expensive",
+      "onyomi": "コウ (kou)",
+      "kunyomi": "たか(い) (taka[i])",
+      "usage": "あの山は高いです。(Ano yama wa takai desu. - That mountain is high.)"
+    },
+    "円": {
+      "meaning": "circle, yen, round",
+      "onyomi": "エン (en)",
+      "kunyomi": "まる(い) (maru[i])",
+      "usage": "これは百円です。(Kore wa hyaku en desu. - This is 100 yen.)"
+    },
+    "子": {
+      "meaning": "child",
+      "onyomi": "シ (shi), ス (su), ツ (tsu)",
+      "kunyomi": "こ (ko), ね (ne)",
+      "usage": "子供と遊びます。(Kodomo to asobimasu. - I play with children.)"
+    },
+    "外": {
+      "meaning": "outside",
+      "onyomi": "ガイ (gai), ゲ (ge)",
+      "kunyomi": "soto (soto), hoka (hoka), hazu- (hazu-), to- (to-)",
+      "usage": "外で遊びます。(Soto de asobimasu. - I play outside.)"
+    },
+    "八": {
+      "meaning": "eight, 8",
+      "onyomi": "ハチ (hachi)",
+      "kunyomi": "や(つ) (ya[tsu]), よう (you)",
+      "usage": "八時です。(Hachiji desu. - It's eight o'clock.)"
+    },
+    "六": {
+      "meaning": "six, 6",
+      "onyomi": "ロク (roku)",
+      "kunyomi": "む(つ) (mu[tsu]), むい (mui)",
+      "usage": "六時です。(Rokuji desu. - It's six o'clock.)"
+    },
+    "下": {
+      "meaning": "below, down, descend, give, low, inferior",
+      "onyomi": "カ (ka), ゲ (ge)",
+      "kunyomi": "shita (shita), shimo (shimo), moto (moto), sa(geru) (sa[geru]), kuda(ru) (kuda[ru]), o(rosu) (o[rosu])",
+      "usage": "机の下にあります。(Tsukue no shita ni arimasu. - It's under the desk.)"
+    },
+    "来": {
+      "meaning": "come, due, next, cause, become",
+      "onyomi": "ライ (rai), タイ (tai)",
+      "kunyomi": "く.る (ku.ru), きた.る (kitaru), き (ki), こ (ko)",
+      "usage": "明日来ます。(Ashita kimasu. - I will come tomorrow.)"
+    },
+    "気": {
+      "meaning": "spirit, mind, air, atmosphere, mood",
+      "onyomi": "キ (ki), ケ (ke)",
+      "kunyomi": "いき (iki)",
+      "usage": "元気ですか。(Genki desu ka. - How are you? / Are you well?)"
+    },
+    "小": {
+      "meaning": "little, small",
+      "onyomi": "ショウ (shou)",
+      "kunyomi": "ちい(さい) (chii[sai]), こ- (ko-), お- (o-), さ- (sa-)",
+      "usage": "これは小さい犬です。(Kore wa chiisai inu desu. - This is a small dog.)"
+    },
+    "七": {
+      "meaning": "seven, 7",
+      "onyomi": "シチ (shichi)",
+      "kunyomi": "なな(つ) (nana[tsu]), なの (nano)",
+      "usage": "七時です。(Shichiji desu. - It's seven o'clock.)"
+    },
+    "山": {
+      "meaning": "mountain",
+      "onyomi": "サン (san), セン (sen)",
+      "kunyomi": "やま (yama)",
+      "usage": "山に登ります。(Yama ni noborimasu. - I climb a mountain.)"
+    },
+    "話": {
+      "meaning": "tale, talk",
+      "onyomi": "ワ (wa)",
+      "kunyomi": "はな(す) (hana[su]), はなし (hanashi)",
+      "usage": "日本語を話します。(Nihongo o hanashimasu. - I speak Japanese.)"
+    },
+    "女": {
+      "meaning": "woman, female",
+      "onyomi": "ジョ (jo)",
+      "kunyomi": "おんな (onnna), め (me)",
+      "usage": "彼女は日本人です。(Kanojo wa Nihonjin desu. - She is Japanese.)"
+    },
+    "北": {
+      "meaning": "north",
+      "onyomi": "ホク (hoku)",
+      "kunyomi": "きた (kita)",
+      "usage": "北の方向へ行きます。(Kita no hōkō e ikimasu. - I go in the north direction.)"
+    },
+    "午": {
+      "meaning": "noon, sign of the horse",
+      "onyomi": "ゴ (go)",
+      "kunyomi": "うま (uma)",
+      "usage": "午後に会います。(Gogo ni aimasu. - I will meet in the afternoon.)"
+    },
+    "百": {
+      "meaning": "hundred",
+      "onyomi": "ヒャク (hyaku), ビャク (byaku)",
+      "kunyomi": "もも (momo)",
+      "usage": "百円です。(Hyaku en desu. - It's 100 yen.)"
+    },
+    "書": {
+      "meaning": "write",
+      "onyomi": "ショ (sho)",
+      "kunyomi": "か(く) (kaku)",
+      "usage": "手紙を書きます。(Tegami o kakimasu. - I write a letter.)"
+    },
+    "先": {
+      "meaning": "before, ahead, previous, future, precedence",
+      "onyomi": "セン (sen)",
+      "kunyomi": "さき (saki), ま(zu) (ma[zu])",
+      "usage": "先生に聞きます。(Sensei ni kikimasu. - I ask the teacher.)"
+    },
+    "名": {
+      "meaning": "name, noted, distinguished, reputation",
+      "onyomi": "メイ (mei), ミョウ (myou)",
+      "kunyomi": "な (na)",
+      "usage": "お名前は何ですか。(O-namae wa nan desu ka. - What is your name?)"
+    },
+    "川": {
+      "meaning": "river, stream",
+      "onyomi": "セン (sen)",
+      "kunyomi": "かわ (kawa)",
+      "usage": "川で泳ぎます。(Kawa de oyogimasu. - I swim in the river.)"
+    },
+    "千": {
+      "meaning": "thousand",
+      "onyomi": "セン (sen)",
+      "kunyomi": "ち (chi)",
+      "usage": "千円です。(Sen en desu. - It's 1000 yen.)"
+    },
+    "水": {
+      "meaning": "water",
+      "onyomi": "スイ (sui)",
+      "kunyomi": "mizu (mizu)",
+      "usage": "水を飲みます。(Mizu o nomimasu. - I drink water.)"
+    },
+    "半": {
+      "meaning": "half, middle, odd number, semi-",
+      "onyomi": "ハン (han)",
+      "kunyomi": "naka(ba) (naka[ba])",
+      "usage": "半分食べます。(Hanbun tabemasu. - I eat half.)"
+    },
+    "男": {
+      "meaning": "male; man",
+      "onyomi": "ダン (dan), ナン (nan)",
+      "kunyomi": "otoko (otoko), o (o)",
+      "usage": "彼は男の子です。(Kare wa otoko no ko desu. - He is a boy.)"
+    },
+    "西": {
+      "meaning": "west",
+      "onyomi": "セイ (sei), サイ (sai)",
+      "kunyomi": "nishi (nishi)",
+      "usage": "西の方向へ行きます。(Nishi no hōkō e ikimasu. - I go in the west direction.)"
+    },
+    "電": {
+      "meaning": "electricity; electric powered",
+      "onyomi": "デン (den)",
+      "kunyomi": "",
+      "usage": "電気をつけます。(Denki o tsukemasu. - I turn on the light/electricity.)"
+    },
+    "校": {
+      "meaning": "school, exam",
+      "onyomi": "コウ (kou)",
+      "kunyomi": "",
+      "usage": "学校へ行きます。(Gakkō e ikimasu. - I go to school.)"
+    },
+    "語": {
+      "meaning": "word, speech, language",
+      "onyomi": "ゴ (go)",
+      "kunyomi": "kata(ru) (kata[ru])",
+      "usage": "日本語を勉強します。(Nihongo o benkyō shimasu. - I study Japanese.)"
+    },
+    "土": {
+      "meaning": "soil, earth, ground",
+      "onyomi": "ド (do), ト (to)",
+      "kunyomi": "tsuchi (tsuchi)",
+      "usage": "土の上に座ります。(Tsuchi no ue ni suwarimasu. - I sit on the ground.)"
+    },
+    "木": {
+      "meaning": "tree, wood",
+      "onyomi": "ボク (boku), モク (moku)",
+      "kunyomi": "ki (ki), ko- (ko-)",
+      "usage": "あの木は高いです。(Ano ki wa takai desu. - That tree is tall.)"
+    },
+    "聞": {
+      "meaning": "to hear; to listen; to ask",
+      "onyomi": "ブン (bun), モン (mon)",
+      "kunyomi": "ki(ku) (ki[ku])",
+      "usage": "音楽を聞きます。(Ongaku o kikimasu. - I listen to music.)"
+    },
+    "食": {
+      "meaning": "eat, food",
+      "onyomi": "ショク (shoku), ジキ (jiki)",
+      "kunyomi": "k(u) (ku[u]), ta(beru) (ta[beru]), ha(mu) (ha[mu])",
+      "usage": "ご飯を食べます。(Gohan o tabemasu. - I eat a meal.)"
+    },
+    "車": {
+      "meaning": "car, wheel",
+      "onyomi": "シャ (sha)",
+      "kunyomi": "kuruma (kuruma)",
+      "usage": "車で来ました。(Kuruma de kimashita. - I came by car.)"
+    },
+    "何": {
+      "meaning": "what",
+      "onyomi": "カ (ka)",
+      "kunyomi": "nani (nani), nan (nan)",
+      "usage": "これは何ですか。(Kore wa nan desu ka. - What is this?)"
+    },
+    "南": {
+      "meaning": "south",
+      "onyomi": "ナン (nan), ナ (na)",
+      "kunyomi": "minami (minami)",
+      "usage": "南の窓を開けます。(Minami no mado o akemasu. - I open the south window.)"
+    },
+    "万": {
+      "meaning": "ten thousand, 10,000",
+      "onyomi": "マン (man), バン (ban)",
+      "kunyomi": "",
+      "usage": "一万円です。(Ichi man en desu. - It's 10,000 yen.)"
+    },
+    "毎": {
+      "meaning": "every",
+      "onyomi": "マイ (mai)",
+      "kunyomi": "goto(ni) (goto[ni])",
+      "usage": "毎日日本語を勉強します。(Mainichi Nihongo o benkyō shimasu. - I study Japanese every day.)"
+    },
+    "白": {
+      "meaning": "white",
+      "onyomi": "ハク (haku), ビャク (byaku)",
+      "kunyomi": "shiro(i) (shiro[i])",
+      "usage": "白い服を着ています。(Shiroi fuku o kite imasu. - I am wearing white clothes.)"
+    },
+    "天": {
+      "meaning": "heavens, sky, imperial",
+      "onyomi": "テン (ten)",
+      "kunyomi": "amatsu (amatsu)",
+      "usage": "空は青い天です。(Sora wa aoi ten desu. - The sky is a blue heaven.)"
+    },
+    "母": {
+      "meaning": "mother",
+      "onyomi": "ボ (bo)",
+      "kunyomi": "haha (haha), kaa (kaa)",
+      "usage": "私の母は優しいです。(Watashi no haha wa yasashii desu. - My mother is kind.)"
+    },
+    "火": {
+      "meaning": "fire",
+      "onyomi": "カ (ka)",
+      "kunyomi": "hi (hi), bi (bi), ho (ho)",
+      "usage": "火をつけます。(Hi o tsukemasu. - I light a fire.)"
+    },
+    "右": {
+      "meaning": "right (direction)",
+      "onyomi": "ウ (u), ユウ (yuu)",
+      "kunyomi": "migi (migi)",
+      "usage": "右に曲がってください。(Migi ni magatte kudasai. - Please turn right.)"
+    },
+    "読": {
+      "meaning": "to read",
+      "onyomi": "ドク (doku), トク (toku), トウ (tou)",
+      "kunyomi": "yo(mu) (yo[mu])",
+      "usage": "本を読みます。(Hon o yomimasu. - I read a book.)"
+    },
+    "友": {
+      "meaning": "friend",
+      "onyomi": "ユウ (yuu)",
+      "kunyomi": "tomo (tomo)",
+      "usage": "友達と会います。(Tomodachi to aimasu. - I meet with a friend.)"
+    },
+    "左": {
+      "meaning": "left",
+      "onyomi": "サ (sa), シャ (sha)",
+      "kunyomi": "hidari (hidari)",
+      "usage": "左に曲がってください。(Hidari ni magatte kudasai. - Please turn left.)"
+    },
+    "休": {
+      "meaning": "rest, day off, retire, sleep",
+      "onyomi": "キュウ (kyuu)",
+      "kunyomi": "yasu(mu) (yasu[mu])",
+      "usage": "今日は休みです。(Kyō wa yasumi desu. - Today is a day off.)"
+    },
+    "父": {
+      "meaning": "father",
+      "onyomi": "フ (fu)",
+      "kunyomi": "chichi (chichi), tou (tou)",
+      "usage": "私の父は医者です。(Watashi no chichi wa isha desu. - My father is a doctor.)"
+    },
+    "雨": {
+      "meaning": "rain",
+      "onyomi": "ウ (u)",
+      "kunyomi": "ame (ame), ama (ama)",
+      "usage": "今日は雨です。(Kyō wa ame desu. - It's raining today.)"
+    }
+  }
