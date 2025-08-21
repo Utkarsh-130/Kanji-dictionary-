@@ -2,21 +2,22 @@ document.addEventListener('DOMContentLoaded', () => {
     const n5 = document.getElementById('n5');
     const n4 = document.getElementById('n4');
     const n3 = document.getElementById('n3');
+    const n2 = document.getElementById('n2');
+    const n1 = document.getElementById('n1');
     const save = document.getElementById('save');
     const status = document.createElement('div');
     status.style.marginTop = '10px';
     document.body.appendChild(status);
 
-    // Ensure at least one checkbox is checked
     function updateCheckboxStates() {
-        const anyChecked = n5.checked || n4.checked || n3.checked;
+        const anyChecked = n5.checked || n4.checked || n3.checked || n2.checked || n1.checked;
         if (!anyChecked) {
             n5.checked = true;
         }
         save.disabled = !anyChecked;
     }
 
-    [n5, n4, n3].forEach(checkbox => {
+    [n5, n4, n3, n2, n1].forEach(checkbox => {
         checkbox.addEventListener('change', updateCheckboxStates);
     });
 
@@ -25,6 +26,8 @@ document.addEventListener('DOMContentLoaded', () => {
         n5.checked = sets.includes("n5");
         n4.checked = sets.includes("n4");
         n3.checked = sets.includes("n3");
+        n2.checked = sets.includes("n2");
+        n1.checked = sets.includes("n1");
         updateCheckboxStates();
     });
 

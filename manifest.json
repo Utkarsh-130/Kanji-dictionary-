@@ -1,12 +1,13 @@
 {
     "manifest_version": 3,
-    "name": "Kanji Hover Dictionary",
-    "version": "1.1",
-    "description": "Shows Kanji meaning, readings, and usage on hover.",
-    "permissions": ["storage", "scripting"],
-    "host_permissions": ["<all_urls>"],
+    "name": "Kanji Learning Extension",
+    "version": "2.0",
+    "description": "Interactive Kanji dictionary with spaced repetition learning system.",
+    "permissions": ["storage", "scripting", "activeTab"],
+    "host_permissions": ["<all_urls>", "https://*.supabase.co/*"],
     "action": {
-      "default_popup": "options.html"
+      "default_popup": "popup.html",
+      "default_title": "Kanji Learning Extension"
     },
     "content_scripts": [
       {
@@ -17,9 +18,18 @@
     ],
     "web_accessible_resources": [
       {
-        "resources": ["dictionaryn5.json", "dictionaryn4.json", "dictionaryn3.json"],
+        "resources": [
+          "dictionaryn5.json", 
+          "dictionaryn4.json", 
+          "dictionaryn3.json",
+          "auth.html",
+          "dashboard.html"
+        ],
         "matches": ["<all_urls>"]
       }
-    ]
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
   }
   
