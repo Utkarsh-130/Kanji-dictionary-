@@ -4,7 +4,7 @@
     "version": "2.0",
     "description": "Interactive Kanji dictionary with spaced repetition learning system.",
     "permissions": ["storage", "scripting", "activeTab"],
-    "host_permissions": ["<all_urls>", "https://*.supabase.co/*"],
+    "host_permissions": ["<all_urls>", "https://sgdpvromsceywrgwvzvb.supabase.co"],
     "action": {
       "default_popup": "popup.html",
       "default_title": "Kanji Learning Extension"
@@ -12,8 +12,8 @@
     "content_scripts": [
       {
         "matches": ["<all_urls>"],
-        "js": ["content.js"],
-        "css": ["style.css"]
+        "js": ["Content.js"],
+        "css": ["Style.css"]
       }
     ],
     "web_accessible_resources": [
@@ -22,6 +22,8 @@
           "dictionaryn5.json", 
           "dictionaryn4.json", 
           "dictionaryn3.json",
+          "dictionaryn2.json",
+          "dictionaryn1.json",
           "auth.html",
           "dashboard.html"
         ],
